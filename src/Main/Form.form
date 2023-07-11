@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Main.Form">
+  <grid id="27dc6" binding="panelMain" layout-manager="GridLayoutManager" row-count="11" column-count="10" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="2019" height="379"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="e8ae4" class="javax.swing.JButton" binding="A5">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ingles 1"/>
+        </properties>
+      </component>
+      <component id="b33da" class="javax.swing.JButton" binding="A4">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Lenguaje y Comunicacion "/>
+        </properties>
+      </component>
+      <component id="f97dc" class="javax.swing.JButton" binding="A3">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Filosofia y Etica"/>
+        </properties>
+      </component>
+      <component id="51f67" class="javax.swing.JButton" binding="A2">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Metodo del Trabajo U"/>
+        </properties>
+      </component>
+      <component id="d880b" class="javax.swing.JButton" binding="A1">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fundamentos de Calculo"/>
+        </properties>
+      </component>
+      <component id="976bf" class="javax.swing.JLabel" binding="primerCiclo">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Primer Ciclo"/>
+        </properties>
+      </component>
+      <component id="8b04" class="javax.swing.JButton" binding="A6">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Act. Culturales y Dep"/>
+        </properties>
+      </component>
+      <component id="57c06" class="javax.swing.JButton" binding="A7">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Biologia General"/>
+        </properties>
+      </component>
+      <component id="21c37" class="javax.swing.JButton" binding="A8">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fund. de Ing. Pesquera"/>
+        </properties>
+      </component>
+      <component id="5e270" class="javax.swing.JButton" binding="A9">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Quimica Inorganica"/>
+        </properties>
+      </component>
+      <component id="375d5" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Segundo Ciclo"/>
+        </properties>
+      </component>
+      <component id="77de4" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tercer Ciclo"/>
+        </properties>
+      </component>
+      <component id="9b492" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Cuarto Ciclo"/>
+        </properties>
+      </component>
+      <component id="11e47" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Quinto Ciclo"/>
+        </properties>
+      </component>
+      <component id="526de" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sexto Ciclo"/>
+        </properties>
+      </component>
+      <component id="9d0bb" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Septimos Ciclo"/>
+        </properties>
+      </component>
+      <component id="1afe4" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Octavo Ciclo"/>
+        </properties>
+      </component>
+      <component id="aee52" class="javax.swing.JButton" binding="A10">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tec. de Inf. y Comunicacion"/>
+        </properties>
+      </component>
+      <component id="6637d" class="javax.swing.JButton" binding="A11">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sociologia"/>
+        </properties>
+      </component>
+      <component id="dfd37" class="javax.swing.JButton" binding="A12">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Medio Amb. y Des. Sostenible"/>
+        </properties>
+      </component>
+      <component id="24d1a" class="javax.swing.JButton" binding="A13">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Liderazgo y Des. Personal"/>
+        </properties>
+      </component>
+      <component id="2b70a" class="javax.swing.JButton" binding="A14">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ingles 2"/>
+        </properties>
+      </component>
+      <component id="de3a5" class="javax.swing.JButton" binding="A15">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Calculo Diferencial"/>
+        </properties>
+      </component>
+      <component id="3d279" class="javax.swing.JButton" binding="A16">
+        <constraints>
+          <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Biologia y Ecologia Pesquera"/>
+        </properties>
+      </component>
+      <component id="874ed" class="javax.swing.JButton" binding="A17">
+        <constraints>
+          <grid row="9" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Quimica Organica"/>
+        </properties>
+      </component>
+      <component id="38fa5" class="javax.swing.JButton" binding="A18">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="M. de la Ivestigacion C."/>
+        </properties>
+      </component>
+      <component id="9a37e" class="javax.swing.JButton" binding="A19">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Geopolitica y Realidad Nacional"/>
+        </properties>
+      </component>
+      <component id="b93b4" class="javax.swing.JButton" binding="A20">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Estadistica General"/>
+        </properties>
+      </component>
+      <component id="6f57b" class="javax.swing.JButton" binding="A21">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Psicologia Organizacional"/>
+        </properties>
+      </component>
+      <component id="7d89c" class="javax.swing.JButton" binding="A22">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ingles 3"/>
+        </properties>
+      </component>
+      <component id="6fc41" class="javax.swing.JButton" binding="A23">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Calculo Integral"/>
+        </properties>
+      </component>
+      <component id="da0b" class="javax.swing.JButton" binding="A24">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ictiologia"/>
+        </properties>
+      </component>
+      <component id="6d556" class="javax.swing.JButton" binding="A25">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Quimica Analitica Pesquera 1"/>
+        </properties>
+      </component>
+      <component id="d45e1" class="javax.swing.JButton" binding="A26">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ec. Diferenciales y M. Mat."/>
+        </properties>
+      </component>
+      <component id="b5cf1" class="javax.swing.JButton" binding="A27">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fisico - Quimica"/>
+        </properties>
+      </component>
+      <component id="460c9" class="javax.swing.JButton" binding="A28">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Comportamiento de Peces"/>
+        </properties>
+      </component>
+      <component id="ec9c7" class="javax.swing.JButton" binding="A29">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fisica"/>
+        </properties>
+      </component>
+      <component id="82338" class="javax.swing.JButton" binding="A30">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Quimica Analitica Pesquera 2"/>
+        </properties>
+      </component>
+      <component id="3bc7a" class="javax.swing.JButton" binding="A31">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Estadistica Aplicada"/>
+        </properties>
+      </component>
+      <component id="769de" class="javax.swing.JButton" binding="A32">
+        <constraints>
+          <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Geologia Fisica y Litoral Peruano"/>
+        </properties>
+      </component>
+      <component id="cbd71" class="javax.swing.JButton" binding="A33">
+        <constraints>
+          <grid row="9" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dibujo y Geometria descriptiva"/>
+        </properties>
+      </component>
+      <component id="44b6d" class="javax.swing.JButton" binding="A34">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Materiales de Pesca"/>
+        </properties>
+      </component>
+      <component id="4f1e6" class="javax.swing.JButton" binding="A35">
+        <constraints>
+          <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Mecanica Tecnica y Res. de M"/>
+        </properties>
+      </component>
+      <component id="d3dc6" class="javax.swing.JButton" binding="A36">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Recursos Pesqueros"/>
+        </properties>
+      </component>
+      <component id="a5596" class="javax.swing.JButton" binding="A37">
+        <constraints>
+          <grid row="5" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fisica Aplicada a la Industria"/>
+        </properties>
+      </component>
+      <component id="975c6" class="javax.swing.JButton" binding="A38">
+        <constraints>
+          <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Bioquimica"/>
+        </properties>
+      </component>
+      <component id="dcc53" class="javax.swing.JButton" binding="A39">
+        <constraints>
+          <grid row="7" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Legislacion Pesquera"/>
+        </properties>
+      </component>
+      <component id="427c7" class="javax.swing.JButton" binding="A40">
+        <constraints>
+          <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Economia para la Empresa"/>
+        </properties>
+      </component>
+      <component id="c0a28" class="javax.swing.JButton" binding="A41">
+        <constraints>
+          <grid row="9" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Electiva 1"/>
+        </properties>
+      </component>
+      <component id="cb5a1" class="javax.swing.JButton" binding="A42">
+        <constraints>
+          <grid row="2" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ing. de Artes de Pesca"/>
+        </properties>
+      </component>
+      <component id="13199" class="javax.swing.JButton" binding="A43">
+        <constraints>
+          <grid row="3" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Organos de  Maquina"/>
+        </properties>
+      </component>
+      <component id="f08dc" class="javax.swing.JButton" binding="A44">
+        <constraints>
+          <grid row="4" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Acustica Submarina"/>
+        </properties>
+      </component>
+      <component id="3a561" class="javax.swing.JButton" binding="A45">
+        <constraints>
+          <grid row="5" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Mecanica de Fluidos"/>
+        </properties>
+      </component>
+      <component id="cc337" class="javax.swing.JButton" binding="A46">
+        <constraints>
+          <grid row="6" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Microbiologia General"/>
+        </properties>
+      </component>
+      <component id="b6a4c" class="javax.swing.JButton" binding="A47">
+        <constraints>
+          <grid row="7" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Oceanografia Fisica"/>
+        </properties>
+      </component>
+      <component id="fdf24" class="javax.swing.JButton" binding="A48">
+        <constraints>
+          <grid row="8" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Administracion de Empresas"/>
+        </properties>
+      </component>
+      <component id="5c675" class="javax.swing.JButton" binding="A49">
+        <constraints>
+          <grid row="9" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Electiva 2"/>
+        </properties>
+      </component>
+      <component id="12ee2" class="javax.swing.JButton" binding="A50">
+        <constraints>
+          <grid row="2" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ing. de Artes de Pesca 2"/>
+        </properties>
+      </component>
+      <component id="d64fa" class="javax.swing.JButton" binding="A51">
+        <constraints>
+          <grid row="3" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tecnologia del Empleo de Frio"/>
+        </properties>
+      </component>
+      <component id="cf121" class="javax.swing.JButton" binding="A52">
+        <constraints>
+          <grid row="4" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="M. de Ev. Acustica y Geo."/>
+        </properties>
+      </component>
+      <component id="c8334" class="javax.swing.JButton" binding="A53">
+        <constraints>
+          <grid row="5" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Balance de Materia y Energia"/>
+        </properties>
+      </component>
+      <component id="1718b" class="javax.swing.JButton" binding="A54">
+        <constraints>
+          <grid row="6" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Aseguramiento de Calidad"/>
+        </properties>
+      </component>
+      <component id="54103" class="javax.swing.JButton" binding="A55">
+        <constraints>
+          <grid row="7" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Oceanografia Quimica"/>
+        </properties>
+      </component>
+      <component id="500f5" class="javax.swing.JButton" binding="A56">
+        <constraints>
+          <grid row="8" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Costos y Presupuestos"/>
+        </properties>
+      </component>
+      <component id="142d7" class="javax.swing.JButton" binding="A57">
+        <constraints>
+          <grid row="9" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Electiva 3"/>
+        </properties>
+      </component>
+      <component id="9ad0" class="javax.swing.JButton" binding="A58">
+        <constraints>
+          <grid row="2" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Embarcaciones Pesqueras"/>
+        </properties>
+      </component>
+      <component id="c24bd" class="javax.swing.JButton" binding="A59">
+        <constraints>
+          <grid row="3" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Procesamiento Pesquero"/>
+        </properties>
+      </component>
+      <component id="6b80e" class="javax.swing.JButton" binding="A60">
+        <constraints>
+          <grid row="4" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ev. de Recursos Pesqueros"/>
+        </properties>
+      </component>
+      <component id="8023" class="javax.swing.JButton" binding="A61">
+        <constraints>
+          <grid row="5" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Termodinamica"/>
+        </properties>
+      </component>
+      <component id="50201" class="javax.swing.JButton" binding="A62">
+        <constraints>
+          <grid row="6" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Operaciones Unitarias 1"/>
+        </properties>
+      </component>
+      <component id="904dc" class="javax.swing.JButton" binding="A63">
+        <constraints>
+          <grid row="7" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Oceanografia Biologica"/>
+        </properties>
+      </component>
+      <component id="d3433" class="javax.swing.JButton" binding="A64">
+        <constraints>
+          <grid row="8" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ingenieria Economica"/>
+        </properties>
+      </component>
+      <component id="7ccb1" class="javax.swing.JButton" binding="A65">
+        <constraints>
+          <grid row="9" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Electiva 4"/>
+        </properties>
+      </component>
+      <component id="4ae07" class="javax.swing.JButton" binding="A66">
+        <constraints>
+          <grid row="2" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Taller de Tesis"/>
+        </properties>
+      </component>
+      <component id="a6ab8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Noveno Ciclo"/>
+        </properties>
+      </component>
+      <component id="21075" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Decimo Ciclo"/>
+        </properties>
+      </component>
+      <component id="cd055" class="javax.swing.JButton" binding="A67">
+        <constraints>
+          <grid row="3" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Procesamiento Pesquero 2"/>
+        </properties>
+      </component>
+      <component id="53a16" class="javax.swing.JButton" binding="A68">
+        <constraints>
+          <grid row="4" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Adm. de Recursos Pesqueros"/>
+        </properties>
+      </component>
+      <component id="3a2b" class="javax.swing.JButton" binding="A69">
+        <constraints>
+          <grid row="5" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Tecnologia de la Produccion"/>
+        </properties>
+      </component>
+      <component id="7e383" class="javax.swing.JButton" binding="A70">
+        <constraints>
+          <grid row="6" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Operaciones Unitarias 2"/>
+        </properties>
+      </component>
+      <component id="2b335" class="javax.swing.JButton" binding="A71">
+        <constraints>
+          <grid row="7" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Oceanografia Geologica"/>
+        </properties>
+      </component>
+      <component id="bf9a6" class="javax.swing.JButton" binding="A72">
+        <constraints>
+          <grid row="8" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Formulacion de Proyectos de I."/>
+        </properties>
+      </component>
+      <component id="19fc6" class="javax.swing.JButton" binding="A73">
+        <constraints>
+          <grid row="9" column="8" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Ingenieria de Flotas"/>
+        </properties>
+      </component>
+      <component id="80e76" class="javax.swing.JButton" binding="A74">
+        <constraints>
+          <grid row="2" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Taller de Tesis 2"/>
+        </properties>
+      </component>
+      <component id="27415" class="javax.swing.JButton" binding="A75">
+        <constraints>
+          <grid row="3" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="BioEconomia Pesquera"/>
+        </properties>
+      </component>
+      <component id="d99d0" class="javax.swing.JButton" binding="A76">
+        <constraints>
+          <grid row="4" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Planificacion de la I. Pesquera"/>
+        </properties>
+      </component>
+      <component id="6db9" class="javax.swing.JButton" binding="A77">
+        <constraints>
+          <grid row="5" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Planificacion de la Produccion"/>
+        </properties>
+      </component>
+      <component id="194d3" class="javax.swing.JButton" binding="A78">
+        <constraints>
+          <grid row="6" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Comercializacion y Mercadotecnia"/>
+        </properties>
+      </component>
+      <component id="1e7ca" class="javax.swing.JButton" binding="A79">
+        <constraints>
+          <grid row="7" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Innovacion Tecnologica Pesquera"/>
+        </properties>
+      </component>
+      <component id="e979d" class="javax.swing.JButton" binding="A80">
+        <constraints>
+          <grid row="8" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="E. de Proyectos de Inversion"/>
+        </properties>
+      </component>
+      <component id="b5a70" class="javax.swing.JButton" binding="A81">
+        <constraints>
+          <grid row="9" column="9" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Practicas Pre-Profesionales"/>
+        </properties>
+      </component>
+      <component id="8fa3b" class="javax.swing.JButton" binding="limpiarButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="1" use-parent-layout="false">
+            <preferred-size width="79" height="35"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Empezar"/>
+        </properties>
+      </component>
+      <component id="d5e4f" class="javax.swing.JSpinner" binding="CreditosColocados">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="a5397" class="javax.swing.JButton" binding="bloquearButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Bloquear"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
